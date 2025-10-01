@@ -3,7 +3,7 @@
 $tasks = [
     ['task' => 'Belajar dasar-dasar PHP', 'completed' => true],
     ['task' => 'Memahami cara kerja perulangan (loop)', 'completed' => true],
-    ['task' => 'Membuat kasus To-Do List', 'completed' => true],
+    ['task' => 'Membuat kasus To-Do List', 'completed' => false],
     ['task' => 'Menambahkan fitur baru ke proyek', 'completed' => false],
 ];
 ?>
