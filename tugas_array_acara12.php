@@ -1,6 +1,8 @@
 <?php
-echo "<h2>Prodi Bisnis Digital - Workshop Sistem Terintegrasi</h2>";
-echo "<h3>Tugas: Array Multidimensi PHP</h3>";
+echo "<h1>Nama Rafif Dwi Pradipta</h1>";
+echo "<h2>NIM E42240950</h2>";
+echo "<h3>Prodi Bisnis Digital - Workshop Sistem Terintegrasi</h3>";
+echo "<h4>Tugas: Array Multidimensi PHP</h4>";
 echo "<hr>";
 
 // ====================================================
